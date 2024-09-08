@@ -189,7 +189,7 @@ void *scrolling_thread(void *args) {
 				   } while (0); 														\
 
 
-const char *HELP_TEXT = "xboxmouse - control your *nix computer with a wired/wireless XBOX-like controller\n"
+const char *HELP_TEXT = "xboxmouse - control your Linux computer with a wired/wireless Xbox-like controller\n"
 #ifdef SMART_TV
 						"compiled with smart TV capabilities\n"
 #endif
